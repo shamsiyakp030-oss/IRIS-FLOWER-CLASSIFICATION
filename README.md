@@ -57,4 +57,4 @@ Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 ## video presentation
-
+https://drive.google.com/file/d/1Ds3oX2xBkpAIwbDZr1f3Cn16NognvPm4/view?usp=drive_link
